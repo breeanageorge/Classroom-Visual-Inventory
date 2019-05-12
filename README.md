@@ -2,14 +2,13 @@
 
 For this project I created a visual classroom inventory to replace the existing classroom spreadsheet. This application is public facing, intended for campus classroom users looking for more information about their assigned room.
 
-Link to application:
-http://irt-pw-cp1.irt.csus.edu/rooms/external/classrooms/new/index.php
+Link to application: http://irt-pw-cp1.irt.csus.edu/rooms/external/classrooms/new/index.php
 
 ## Before
 
 This is what the classroom spreadsheet 
 
-(CVI_5.PNG)
+[picture](/CVI_5.PNG)
 
 ## Databases
 
