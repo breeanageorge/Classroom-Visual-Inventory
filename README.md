@@ -8,7 +8,7 @@ Link to application: http://irt-pw-cp1.irt.csus.edu/rooms/external/classrooms/ne
 
 This is what the classroom spreadsheet 
 
-[picture](/CVI_5.PNG)
+![picture](/CVI_5.PNG)
 
 ## Databases
 
