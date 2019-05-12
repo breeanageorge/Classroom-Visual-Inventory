@@ -1,20 +1,26 @@
 # Classroom-Visual-Inventory
 
-For this project I created a visual classroom inventory to replace the existing classroom spreadsheet. This application is public facing, intended for campus classroom users looking for more information about their assigned room.
+For this project I created a visual classroom inventory to replace the existing classroom spreadsheet. This application is public facing, intended for campus classroom users looking for more information about their assigned room. This application was programmed using PHP, MySQL, JavaScript, JQuery, HTML, and CSS.
 
 Link to application: http://irt-pw-cp1.irt.csus.edu/rooms/external/classrooms/new/index.php
 
 ## Before
 
-![Before picture](/CVI_5.PNG)
+![Before picture](/CVI_4.PNG)
 
 ## After
 
-![Before picture](/CVI_1.PNG)
-![Before picture](/CVI_2.PNG)
-![Before picture](/CVI_3.PNG)
-![Before picture](/CVI_4.PNG)
+Initial landing page:
+![Application landing page picture](/CVI_1.PNG)
+
+Search results:
+![Search results picture](/CVI_2.PNG)
+
+Clicking into a room:
+![Specific room information picture](/CVI_3.PNG)
+
+
 
 ## Databases
 
-One of the goals of this project was to clean up the MySQL database tables. The classroom spreadsheet was generated from a table that pulled data from three other tables. This table required regular maintainence when new equipment was being used. Instead of maintaining this table, I virutally create part of it in the SQL statement for the webpage and run a different query to access the other information.
+One of the goals of this project was to clean up the MySQL database tables. The classroom spreadsheet was generated from a table that pulled data from three other tables. This table required regular maintenance when new equipment was being used. Instead of maintaining this table, I virtually create part of it in the SQL statement for the webpage and run a different query to access the other information.
