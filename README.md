@@ -6,9 +6,14 @@ Link to application: http://irt-pw-cp1.irt.csus.edu/rooms/external/classrooms/ne
 
 ## Before
 
-This is what the classroom spreadsheet 
+![Before picture](/CVI_5.PNG)
 
-![picture](/CVI_5.PNG)
+## After
+
+![Before picture](/CVI_1.PNG)
+![Before picture](/CVI_2.PNG)
+![Before picture](/CVI_3.PNG)
+![Before picture](/CVI_4.PNG)
 
 ## Databases
 
