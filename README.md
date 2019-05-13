@@ -22,11 +22,11 @@ I also wanted to clean up the MySQL database tables. The classroom spreadsheet w
 
 ## After
 
-Initial landing page:
+Initial landing page:\
 ![Application landing page picture](/CVI_1.PNG)
 
-Search results:
+Search results:\
 ![Search results picture](/CVI_2.PNG)
 
-Clicking into a room:
+Clicking into a room:\
 ![Specific room information picture](/CVI_3.PNG)
