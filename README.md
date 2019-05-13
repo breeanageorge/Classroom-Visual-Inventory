@@ -1,4 +1,4 @@
-# Classroom-Visual-Inventory
+# Classroom Visual Inventory
 
 For this project I created a visual classroom inventory to replace the existing classroom spreadsheet. This application is public facing, intended for campus classroom users looking for more information about their assigned room. This application was programmed using PHP, MySQL, JavaScript, JQuery, HTML, and CSS.
 
